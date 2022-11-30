@@ -1,0 +1,46 @@
+h1 {
+    background: lightgray;
+    font-family: Arial, sans-serif;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h5 {
+    text-decoration: underline;
+}
+
+#description {
+    font-style: italic;
+    font-size: 30px;
+    background: lightgreen;
+}
+
+.button {
+    width: 100px;
+    text-align: center;
+    background: lightgray;
+    border: none;
+    padding: 20px 0;
+}
+
+.post1 {
+    word-spacing: 20px;
+}
+
+#text1 {
+    background: turquoise;
+    font-weight: bold;
+}
+
+.post2 {
+    letter-spacing: 8px;
+}
+
+#text2 {
+    background: lightpink;
+    text-indent: 60px;
+}
+
+.button3 {
+    text-align: right;
+}
